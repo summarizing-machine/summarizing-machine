@@ -49,7 +49,7 @@ cat multilogue.txt new_turn.txt | summarizing-machine > multilogue.txt
 ```
 Or, if you have installed other machines:
 ```bash
-cat multilogue.md | summarizing-machine \
+cat multilogue.md | analyzing-machine \
   | summarizing-machine | judging-machine > summary_judgment.md
 ```
 
