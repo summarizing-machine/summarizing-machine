@@ -56,5 +56,5 @@ cat multilogue.md | analyzing-machine \
 Or use it in your Python code:
 ```Python
 # Python
-import thinking_machine
+import summarizing_machine
 ```
